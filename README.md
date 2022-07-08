@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hunter-40
 - 👀 I’m interested in Math and Problem Solving
-- 🌱 I’m currently learning Math at UT and Data Science self study on the side.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Math at UT and Machine Learning self study on the side.
 - 📫 How to reach me ...
 
 <!---
